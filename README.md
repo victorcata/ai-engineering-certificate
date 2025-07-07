@@ -1,4 +1,4 @@
-# AI Engineer Professional Certificate (Coursera)
+# AI Engineer Professional Certificate (IBM)
 
 This repository contains my notes, code exercises, and projects from the [AI Engineer Professional Certificate](https://www.coursera.org/professional-certificates/ai-engineer) by IBM.
 
@@ -17,12 +17,11 @@ The certificate is designed to equip engineers with practical skills to build, f
 
 Each folder corresponds to a main topic or course in the certificate:
 
-- `01-foundations/`: Basics of AI, use cases, ethics, and problem framing.
-- `02-ml-models/`: Traditional machine learning algorithms, model evaluation, and pipelines.
-- `03-deep-learning/`: Neural networks, CNNs, and training techniques.
-- `04-generative-ai/`: Text generation, prompt engineering, and diffusion models.
-- `05-llms/`: Working with Large Language Models and fine-tuning.
-- `06-mle-tools/`: Tools and techniques for production AI (e.g. LangChain, vector DBs, RAG).
+- `01-ml-models/`: Traditional machine learning algorithms, model evaluation, and pipelines.
+- `02-deep-learning/`: Neural networks, CNNs, and training techniques.
+- `03-generative-ai/`: Text generation, prompt engineering, and diffusion models.
+- `04-llms/`: Working with Large Language Models and fine-tuning.
+- `05-ai-agents/`: Building AI agents with LangChain, OpenAI, and RAG.
 - `shared/`: Utility code and shared components across courses.
 
 Each topic folder includes:
