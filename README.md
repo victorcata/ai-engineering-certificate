@@ -32,10 +32,9 @@ Each topic folder includes:
 
 ## 🛠️ Setup
 
-You can use a virtual environment:
+You can use a virtual environment with Conda:
 
 ```bash
-python3 -m venv venv
-source venv/bin/activate
-pip install -r requirements.txt
+conda activate base
+conda deactivate
 ```
