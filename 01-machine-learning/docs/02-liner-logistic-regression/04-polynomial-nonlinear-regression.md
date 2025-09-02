@@ -15,10 +15,10 @@
 
 - **Special case of nonlinear regression.**
 - Transforms features into polynomial terms, but coefficients remain linear → solved with linear regression methods.
-- Example:  
-  \[
+- Example:
+  $$
   y = \theta_0 + \theta_1 x + \theta_2 x^2 + \theta_3 x^3
-  \]
+  $$
 - Implemented by introducing new variables:
   - \(x_1 = x\), \(x_2 = x^2\), \(x_3 = x^3\).
 - **Strength:** Can approximate curved relationships.

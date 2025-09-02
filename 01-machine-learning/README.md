@@ -25,7 +25,13 @@
 
 ## 3. Building Supervised Learning Models
 
-1.  []()
+1.  [Introduction to Classification](docs/03-supervised-learning/01-introduction-classification.md)
+1.  [Decision Trees for Machine Learning](docs/03-supervised-learning/02-decision-tree.md)
+1.  [Regression Trees](docs/03-supervised-learning/03-regression-trees.md)
+1.  [Support Vector Machines (SVM)](docs/03-supervised-learning/04-support-vector-machines.md)
+1.  [K-Nearest Neighbors (KNN)](docs/03-supervised-learning/05-k-nearest-neighbors.md)
+1.  [Bias, Variance, and Ensemble Models](docs/03-supervised-learning/06-bias-variance.md)
+1.  [Cheat Sheet: Building Supervised Learning Models]
 
 ---
 
