@@ -31,13 +31,18 @@
 1.  [Support Vector Machines (SVM)](docs/03-supervised-learning/04-support-vector-machines.md)
 1.  [K-Nearest Neighbors (KNN)](docs/03-supervised-learning/05-k-nearest-neighbors.md)
 1.  [Bias, Variance, and Ensemble Models](docs/03-supervised-learning/06-bias-variance.md)
-1.  [Cheat Sheet: Building Supervised Learning Models]
+1.  [Cheat Sheet: Building Supervised Learning Models](docs/03-supervised-learning/cheatsheet-supervised-learning.pdf)
 
 ---
 
 ## 4. Building Unsupervised Learning Models
 
-1.  []()
+1.  [Clustering Strategies](docs/04-unsupervised-learning/01-clustering-strategies.md)
+1.  [K-Means Clustering](docs/04-unsupervised-learning/02-k-means-clustering.md)
+1.  [DBSCAN & HDBSCAN](docs/04-unsupervised-learning/03-dbscan-hdbscan.md)
+1.  [Clustering, Dimension Reduction, and Feature Engineering](docs/04-unsupervised-learning/04-feature-engineering.md)
+1.  [Dimension Reduction Algorithms](docs/04-unsupervised-learning/05-dimension-reduction.md)
+1.  [Cheat Sheet: Building Unsupervised Learning Models](docs/04-unsupervised-learning/cheatsheet-unsupervised-learning.pdf)
 
 ---
 
