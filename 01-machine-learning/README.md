@@ -2,12 +2,12 @@
 
 ## 1. Introduction to Machine Learning
 
-1.  [Machine Learning Techniques & Applications](01-introduction-to-ML/01-techniques-applications.md)
-2.  [Machine Learning Model Lifecycle](01-introduction-to-ML/02-model-lifecycle.md)
-3.  [A Day in the Life of a Machine Learning Engineer](01-introduction-to-ML/03-ml-engineer.md)
-4.  [Data Scientist vs AI Engineer (Generative AI)](01-introduction-to-ML/04-data-scientist-vs-engineer.md)
-5.  [Tools for Machine Learning](01-introduction-to-ML/05-tools-ml.md)
-6.  [Scikit-Learn & the ML Ecosystem](01-introduction-to-ML/06-ml-ecosystem-scikit.md)
+1.  [Machine Learning Techniques & Applications](docs/01-introduction-to-ML/01-techniques-applications.md)
+2.  [Machine Learning Model Lifecycle](docs/01-introduction-to-ML/02-model-lifecycle.md)
+3.  [A Day in the Life of a Machine Learning Engineer](docs/01-introduction-to-ML/03-ml-engineer.md)
+4.  [Data Scientist vs AI Engineer (Generative AI)](docs/01-introduction-to-ML/04-data-scientist-vs-engineer.md)
+5.  [Tools for Machine Learning](docs/01-introduction-to-ML/05-tools-ml.md)
+6.  [Scikit-Learn & the ML Ecosystem](docs/01-introduction-to-ML/06-ml-ecosystem-scikit.md)
 
 ---
 
