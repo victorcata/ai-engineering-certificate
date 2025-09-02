@@ -13,22 +13,28 @@
 
 ## 2. Linear and Logistic Regression
 
-[Linear and Logistic Regression](07-linear-and-logistic-regression.md)
+1.  [Introduction to Regression](docs/02-liner-logistic-regression/01-introduction.md)
+1.  [Introduction to Simple Linear Regression](docs/02-liner-logistic-regression/02-simple-linear-regression.md)
+1.  [Introduction to Multiple Linear Regression](docs/02-liner-logistic-regression/03-multiple-linear-regression.md)
+1.  [Introduction to Polynomial and Nonlinear Regression](docs/02-liner-logistic-regression/04-polynomial-nonlinear-regression.md)
+1.  [Introduction to Logistic Regression](docs/02-liner-logistic-regression/05-logistic-regression.md)
+1.  [Training a Logistic Regression Model](docs/02-liner-logistic-regression/06-training-logistic-regression.md)
+1.  [Cheat Sheet: Linear and Logistic Regression](docs/02-liner-logistic-regression/cheatsheet-linear-logistic-regression.pdf)
 
 ---
 
 ## 3. Building Supervised Learning Models
 
-[Building Supervised Learning Models](08-supervised-learning-models.md)
+1.  []()
 
 ---
 
 ## 4. Building Unsupervised Learning Models
 
-[Building Unsupervised Learning Models](09-unsupervised-learning-models.md)
+1.  []()
 
 ---
 
 ## 5. Evaluating and Validating Machine Learning Models
 
-[Evaluating and Validating ML Models](10-evaluating-validating-ml-models.md)
+1.  []()
