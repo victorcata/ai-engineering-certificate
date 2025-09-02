@@ -37,3 +37,5 @@
 A Machine Learning Model Lifecycle includes:  
 **Problem Definition → Data Collection → Data Preparation → Model Development & Evaluation → Model Deployment**,  
 with iteration and feedback loops at every stage.
+
+[< Back to Machine Learning with Python](../../README.md)

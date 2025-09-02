@@ -1,4 +1,4 @@
-[< Back to Machine Learning with Python](../README.md)
+[< Back to Machine Learning with Python](../../README.md)
 
 # A Day in the Life of a Machine Learning Engineer
 
@@ -71,3 +71,5 @@
 - **Data collection & preparation** are the most time-consuming steps.
 - **Deployment isn’t the end** — ongoing monitoring and retraining are necessary.
 - Success depends on **iteration, feedback, and refinement** throughout the lifecycle.
+
+[< Back to Machine Learning with Python](../../README.md)

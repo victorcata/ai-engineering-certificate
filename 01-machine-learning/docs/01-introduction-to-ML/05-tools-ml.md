@@ -1,4 +1,4 @@
-[< Back to Machine Learning with Python](../README.md)
+[< Back to Machine Learning with Python](../../README.md)
 
 # Tools for Machine Learning
 
@@ -97,3 +97,5 @@
   - NLP
   - Generative AI
 - Tools streamline every step: from raw data → insights → production ML solutions.
+
+[< Back to Machine Learning with Python](../../README.md)

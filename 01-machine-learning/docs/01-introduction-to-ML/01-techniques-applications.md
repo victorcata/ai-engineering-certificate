@@ -1,4 +1,4 @@
-[< Back to Machine Learning with Python](../README.md)
+[< Back to Machine Learning with Python](../../README.md)
 
 # Machine Learning Techniques & Applications
 
@@ -41,3 +41,5 @@
 ## Key Takeaway
 
 Machine Learning empowers computers to learn from data, adapt without explicit programming, and is applied across healthcare, finance, retail, telecom, and entertainment. Humans remain in the loop for oversight and decision-making.
+
+[< Back to Machine Learning with Python](../../README.md)

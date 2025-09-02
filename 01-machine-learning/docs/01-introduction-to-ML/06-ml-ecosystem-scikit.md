@@ -1,4 +1,4 @@
-[< Back to Machine Learning with Python](../README.md)
+[< Back to Machine Learning with Python](../../README.md)
 
 # Scikit-Learn & the ML Ecosystem
 
@@ -56,3 +56,5 @@
 - The **ML ecosystem** = tools + frameworks + libraries working together.
 - **Scikit-learn** is central for classical ML in Python: simple, powerful, community-supported.
 - Covers **most tasks in an ML pipeline**, from preprocessing → modeling → evaluation → deployment.
+
+[< Back to Machine Learning with Python](../../README.md)

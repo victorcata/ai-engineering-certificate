@@ -1,4 +1,4 @@
-[< Back to Machine Learning with Python](../README.md)
+[< Back to Machine Learning with Python](../../README.md)
 
 # Data Scientist vs AI Engineer (Generative AI)
 
@@ -94,3 +94,5 @@
 
 - Data Scientist → Data storyteller.
 - AI Engineer → AI system builder.
+
+[< Back to Machine Learning with Python](../../README.md)
