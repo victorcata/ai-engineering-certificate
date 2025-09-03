@@ -48,4 +48,4 @@
 
 ## 5. Evaluating and Validating Machine Learning Models
 
-1.  []()
+1.  [Data Leakage and Other Pitfalls](docs/05-evaluating-validating/06-data-leakage-pitfalls.md)
