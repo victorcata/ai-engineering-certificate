@@ -1,1 +1,6 @@
 .DS_Store
+
+*.tar
+
+# Images from Air craft damage detection projects
+02-deep-learning/projects/aircraft_damage_dataset_v1
