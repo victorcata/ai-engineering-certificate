@@ -3,4 +3,7 @@
 *.tar
 
 # Images from Air craft damage detection projects
-02-deep-learning/projects/aircraft_damage_dataset_v1
+02-deep-learning/projects/aircraft-damage-detection/aircraft_damage_dataset_v1
+
+# Images from Fruit classification project
+02-deep-learning/projects/fruit-classification/fruits-360-original-size
