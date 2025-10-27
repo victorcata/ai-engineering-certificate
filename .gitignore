@@ -1,5 +1,7 @@
 .DS_Store
 
+venv*/
+
 *.tar
 
 # Images from Air craft damage detection projects
